@@ -9,7 +9,5 @@
 <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 
-<h3>Desktop</h3>
-<img src="./Assets/Desktop.png"/>
-<h4>Mobile</h4>
-<img src="./Assets/Mobile.png"/>
+<h3>Mockup</h3>
+<img src="./Assets/Minimalist Website Launch Computer Mockup Instagram Post 3.png"/>
